@@ -55,9 +55,10 @@ A modern, responsive portfolio dashboard built with Next.js 15, TypeScript, and 
 
 ## 🚀 Deployment
 
-### Deploy to Vercel (Recommended)
+  -> https://dashboard-ui-pied-five.vercel.app/#projects
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+
+
 
 1. **Push to GitHub**
    ```bash

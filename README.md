@@ -60,33 +60,7 @@ A modern, responsive portfolio dashboard built with Next.js 15, TypeScript, and 
 
 
 
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
 
-2. **Deploy on Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Click "Deploy" (no configuration needed!)
-
-### Deploy to Netlify
-
-1. **Build the project**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy to Netlify**
-   - Go to [netlify.com](https://netlify.com)
-   - Connect your GitHub repository
-   - Set build command: `npm run build`
-   - Set publish directory: `.next`
 
 ## 📁 Project Structure
 

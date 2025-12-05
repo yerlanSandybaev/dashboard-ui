@@ -32,60 +32,14 @@ A modern, responsive portfolio dashboard built with Next.js 15, TypeScript, and 
 - **Icons**: [Heroicons](https://heroicons.com/)
 - **Package Manager**: npm
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd dashboard-ui
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**
-   ```bash
-   npm run dev
-   ```
-
-4. **Open your browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
 ## 🚀 Deployment
 
-### Deploy to Vercel (Recommended)
+  -> https://dashboard-ui-pied-five.vercel.app/#projects
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
 
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
 
-2. **Deploy on Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Click "Deploy" (no configuration needed!)
 
-### Deploy to Netlify
 
-1. **Build the project**
-   ```bash
-   npm run build
-   ```
-
-2. **Deploy to Netlify**
-   - Go to [netlify.com](https://netlify.com)
-   - Connect your GitHub repository
-   - Set build command: `npm run build`
-   - Set publish directory: `.next`
 
 ## 📁 Project Structure
 

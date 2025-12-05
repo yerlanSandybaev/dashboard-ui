@@ -17,6 +17,7 @@ const menuItems = [
   { name: 'Dashboard', icon: HomeIcon, href: '/' },
   { name: 'Projects', icon: BriefcaseIcon, href: '#projects' },
   { name: 'Skills', icon: CodeBracketIcon, href: '#skills' },
+  { name: 'Profile', icon: CodeBracketIcon, href: '#profile' },
   { name: 'Resume', icon: DocumentTextIcon, href: '#resume' },
   { name: 'Analytics', icon: ChartBarIcon, href: '#analytics' },
   { name: 'Settings', icon: Cog6ToothIcon, href: '#settings' },
